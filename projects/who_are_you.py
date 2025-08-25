@@ -1,3 +1,4 @@
+#DM  2cnd period who are you project
 name = input("whats your full name?")
 age = input ("how old are you?")
 color =input ("Whats your favorite color?")
